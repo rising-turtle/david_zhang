@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guoliang Liu | Academic</title>
+    <link>https://rising-turtle.github.io/david_zhang/author/guoliang-liu/</link>
+      <atom:link href="https://rising-turtle.github.io/david_zhang/author/guoliang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guoliang Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rising-turtle.github.io/david_zhang/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Guoliang Liu</title>
+      <link>https://rising-turtle.github.io/david_zhang/author/guoliang-liu/</link>
+    </image>
+    
+    <item>
+      <title>An Iterative Graph Optimization Approach for 2D SLAM</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/iros-14-w/</link>
+      <pubDate>Sat, 20 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/iros-14-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

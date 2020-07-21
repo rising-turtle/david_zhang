@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuang Song | Academic</title>
+    <link>https://rising-turtle.github.io/david_zhang/author/shuang-song/</link>
+      <atom:link href="https://rising-turtle.github.io/david_zhang/author/shuang-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuang Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rising-turtle.github.io/david_zhang/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shuang Song</title>
+      <link>https://rising-turtle.github.io/david_zhang/author/shuang-song/</link>
+    </image>
+    
+    <item>
+      <title>Duo-graph: An efficient and robust method for large-scale mapping for visual-guided robots</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/icarcv-12/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/icarcv-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Graph-Based Hierarchical SLAM Framework for Large-Scale Mapping</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/icira-12/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/icira-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

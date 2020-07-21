@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://rising-turtle.github.io/david_zhang/project/</link>
+      <atom:link href="https://rising-turtle.github.io/david_zhang/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rising-turtle.github.io/david_zhang/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://rising-turtle.github.io/david_zhang/project/</link>
+    </image>
+    
+    <item>
+      <title>Co-Robotic Cane (CRC)</title>
+      <link>https://rising-turtle.github.io/david_zhang/project/crc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/project/crc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W-ROMA</title>
+      <link>https://rising-turtle.github.io/david_zhang/project/w-roma/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/project/w-roma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-HARP</title>
+      <link>https://rising-turtle.github.io/david_zhang/project/q-harp/</link>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/project/q-harp/</guid>
+      <description>&lt;p&gt;The proposed project aims at developing a novel quadrupedal human-assistive robotic platform (Q-HARP), with the objective of helping the large number of elderly individuals live a healthy, physically active life style. The Q-HARP primarily functions as a smart power-assist walker: a user, situated in the center of the legged robot, can enjoy the desired amount of power assist in walking according to his/her intent. As such, a Q-HARP user is able to perform an appropriate amount of physical activity, while enjoying the enhanced level of mobility during his/her daily lif. Furthermore, with the Q-HARP&amp;rsquo;s legged motion, the human-robot system can easily overcome most obstacles in the daily life. With this capability, the Q-HARP has a potential of becoming a basic building block for Aging-in-Place, enabling elderly individuals to stay in their home longer without conducting costly modification to their existing home structures.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

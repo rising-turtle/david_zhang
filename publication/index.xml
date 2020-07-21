@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>https://rising-turtle.github.io/david_zhang/publication/</link>
+      <atom:link href="https://rising-turtle.github.io/david_zhang/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rising-turtle.github.io/david_zhang/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/</link>
+    </image>
+    
+    <item>
+      <title>DUI-VIO: Depth Uncertainty Incorporated Visual Inertial Odometry based on an RGB-D Camera</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/iros-20-1/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/iros-20-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The VCU-RVI Benchmark: Evaluating Visual Inertial Odometry for Indoor Navigation Applications with an RGB-D Camera</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/iros-20-2/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/iros-20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Visual Positioning System for Indoor Blind Navigation</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/icra-20/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/icra-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camera Intrinsic Parameters Estimation by Visual Inertial Odometry for a Mobile Phone with Application to Assisted Navigation</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/tmech-20/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/tmech-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plane-Aided Visual-Inertial Odometry for 6-DOF Pose Estimation of a Robotic Navigation Aid</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/access-20/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/access-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Robot Interaction for Assisted Object Grasping by a Wearable Robotic Object Manipulation Aid for the Blind</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/ichms-20/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/ichms-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Depth-Enhanced Visual Inertial Odometry for a Robotic Navigation Aid for Blind People</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/iros-19-w/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/iros-19-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Robot Interaction for Assisted Wayfinding of a Robotic Navigation Aid for the Blind</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/hsi-19/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/hsi-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of Visual-Inertial SLAM for Assisted Wayfinding of the Visually Impaired</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/wacv-19/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/wacv-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Wearable Robotic Object Manipulation Aid for the Visually Impaired</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/nsens-18/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/nsens-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Motorized Robotic Walker for Human Walking Assistance</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/dmd-17/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/dmd-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Motorized Robotic Walker Guided by an Image Processing System for Human Walking Assistance and Rehabilitation</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/dsc-18/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/dsc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plane-Aided Visual-Inertial Odometry for Pose Estimation of a 3D Camera based Indoor Blind Navigation System</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/bmvc-17/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/bmvc-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Indoor Wayfinding System Based on Geometric Features Aided Graph SLAM for the Visually Impaired</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/tnsre-17/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/tnsre-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-D Camera Based Walking Pattern Recognition by Support Vector Machines for a Smart Rollator</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/ijira-17/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/ijira-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An indoor navigation aid for the visually impaired</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/robio-16/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/robio-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An RGB-D Camera based Walking Pattern Detection Method for Smart Rollators</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/isvc-15/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/isvc-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Iterative Graph Optimization Approach for 2D SLAM</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/iros-14-w/</link>
+      <pubDate>Sat, 20 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/iros-14-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duo-graph: An efficient and robust method for large-scale mapping for visual-guided robots</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/icarcv-12/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/icarcv-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Graph-Based Hierarchical SLAM Framework for Large-Scale Mapping</title>
+      <link>https://rising-turtle.github.io/david_zhang/publication/icira-12/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://rising-turtle.github.io/david_zhang/publication/icira-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
